@@ -1,0 +1,25 @@
+{
+  "name": "parchment",
+  "version": "1.0.0",
+  "description": "mirror of parchment files for inform7",
+  "main": "parchment.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/casaval/parchment"
+  },
+  "keywords": [
+    "inform",
+    "inform7",
+    "parchment",
+    "zvm"
+  ],
+  "author": "The Parchment Team (https://github.com/curiousdannii/parchment/blob/master/CONTRIBUTORS)",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/casaval/parchment/issues"
+  },
+  "homepage": "https://github.com/casaval/parchment"
+}
